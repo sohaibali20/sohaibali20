@@ -16,6 +16,7 @@
 - ⚡ Fun fact: **I write code in multiple languages, but ironically, my coffee maker still doesn’t understand me!**
 
 [![sohaibali20's GitHub | Stats](https://stats.quira.sh/sohaibali20/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20)
+[![sohaibali20's GitHub | Languages Over Time](https://stats.quira.sh/sohaibali20/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20)
 
 
 ---
@@ -98,8 +99,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
-  [![sohaibali20's GitHub | Languages Over Time](https://stats.quira.sh/sohaibali20/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20)
-
 ---
 
 ### 📊 GitHub Stats:
