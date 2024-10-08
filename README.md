@@ -21,9 +21,6 @@
   </a>
 </div>
 
-[![sohaibali20's GitHub | Languages Over Time](https://stats.quira.sh/sohaibali20/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20)
-
-
 ---
 
 ### 🔗 Connect With Me:
@@ -104,6 +101,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
+
+<div align="center">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20">
+    <img src="https://stats.quira.sh/sohaibali20/languages-over-time?theme=dark" alt="sohaibali20's GitHub | Languages Over Time">
+  </a>
+</div>
+
+
 ---
 
 ### 📊 GitHub Stats:
