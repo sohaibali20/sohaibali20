@@ -15,9 +15,12 @@
 - 📫 How to reach me: **sohaibalix@gmail.com**
 - ⚡ Fun fact: **I write code in multiple languages, but ironically, my coffee maker still doesn’t understand me!**
 
-<div align="center">
-  [![sohaibali20's GitHub | Stats](https://stats.quira.sh/sohaibali20/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20)
+<div style="text-align: center;">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20">
+    <img src="https://stats.quira.sh/sohaibali20/github?theme=dark" alt="sohaibali20's GitHub | Stats">
+  </a>
 </div>
+
 [![sohaibali20's GitHub | Languages Over Time](https://stats.quira.sh/sohaibali20/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20)
 
 
