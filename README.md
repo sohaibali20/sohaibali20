@@ -31,6 +31,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=mongodb)
 
 <div align="center">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20">
