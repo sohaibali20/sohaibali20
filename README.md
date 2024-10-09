@@ -15,23 +15,11 @@
 - 📫 How to reach me: **sohaibalix@gmail.com**
 - ⚡ Fun fact: **I write code in multiple languages, but ironically, my coffee maker still doesn’t understand me!**
 
-<div align="center">
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20">
-    <img src="https://stats.quira.sh/sohaibali20/github?theme=dark" alt="sohaibali20's GitHub | Stats">
-  </a>
-</div>
 
----
 
 ### 🔗 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/sohaibali20" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohaibali20" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sohaib_aa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohaib_aa" height="30" width="40" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaibalix@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibali20)
 
 ---
 
