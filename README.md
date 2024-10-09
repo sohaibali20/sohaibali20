@@ -46,8 +46,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=express&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Spring-222222?style=flat&logo=nextjs&logoColor=6DB33F)
-![Nest.js](https://img.shields.io/badge/-Spring-222222?style=flat&logo=nestjs&logoColor=6DB33F)
+![Next.js](https://img.shields.io/badge/-Spring-222222?style=flat&logo=next.js&logoColor=6DB33F)
+![Nest.js](https://img.shields.io/badge/-Spring-222222?style=flat&logo=nest.js&logoColor=6DB33F)
 
 
 ---
