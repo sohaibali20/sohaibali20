@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sohaib Ali</h1>
+<div align="center">
+	<img src="">
+</div>
 <h3 align="center">Full Stack Developer | MERN Enthusiast | AI Innovator</h3>
 
 <p align="center">
