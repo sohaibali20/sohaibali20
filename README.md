@@ -25,12 +25,12 @@
 
 ##### Languages I use
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
 
 <div align="center">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=sohaibali20">
