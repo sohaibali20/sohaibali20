@@ -1,6 +1,7 @@
 <div align="center">
-	<img src="https://github.com/sohaibali20/sohaibali20/blob/main/HEY%20I%20Am%20sohaib%20ali%20abbasi.gif?raw=true">
+	<img src="https://github.com/sohaibali20/sohaibali20/blob/main/HEY%20I%20Am%20sohaib%20ali%20abbasi.gif?raw=true" style="width: 80%">
 </div>
+
 <h3 align="center">Full Stack Developer | MERN Enthusiast | AI Innovator</h3>
 
 <p align="center">
