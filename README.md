@@ -41,13 +41,13 @@
 
 ### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=nextdotjs&logoColor=6DB33F)
-![Nest.js](https://img.shields.io/badge/-NestJS-222222?style=flat&logo=nestjs&logoColor=6DB33F)
+![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=181717)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-222222?style=for-the-badge&logo=express&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=6DB33F)
+![Nest.js](https://img.shields.io/badge/-NestJS-222222?style=for-the-badge&logo=nestjs&logoColor=6DB33F)
 
 
 ---
